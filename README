@@ -1,0 +1,2 @@
+This is a sample scrapy app that enables you to persist the most frequent pending urls so that they can be used upon startup.
+
